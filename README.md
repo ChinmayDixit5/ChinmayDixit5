@@ -1,7 +1,7 @@
 Hi, I'm Chinmay Dixit 👋
 
-**Technology Risk | GRC Analyst | Cybersecurity Professional**
-📍 Dublin, Ireland | 🔗 [LinkedIn](https://www.linkedin.com/in/chinmaydixit5/)
+Technology Risk | GRC Analyst | Cybersecurity Professional
+Dublin, Ireland | [LinkedIn](https://www.linkedin.com/in/chinmaydixit5/)
 
 
 
@@ -14,12 +14,13 @@ Previously worked as a Risk & Compliance Analyst at Concentrix, supporting Googl
 
 Core Skills
 
-- **GRC Frameworks:** ISO 27001, NIST CSF, ITGC, Risk & Control Matrix
-- **IT Audit & Risk:** Control testing, gap analysis, audit evidence, remediation tracking
-- **Security Tools:** Microsoft Defender for Cloud, AWS Security Hub, AWS CloudTrail
-- **Platforms:** ServiceNow IRM, RSA Archer, OneTrust
-- **Programming:** Python, Power BI (Basic)
-- **Cloud:** AWS, Docker, Kubernetes (Minikube)
+- GRC Frameworks: ISO 27001, NIST CSF, ITGC, Risk & Control Matri.
+- GRC & Risk Platforms ServiceNow IRM, RSA Archer, OneTrust.
+- IT Audit & Risk: Control testing, gap analysis, audit evidence, remediation tracking
+- Security Tools:Microsoft Defender for Cloud, AWS Security Hub, AWS CloudTrail
+- Platforms: ServiceNow IRM, RSA Archer, OneTrust
+- Programming: Python, Power BI (Basic)
+- Cloud: AWS, Docker, Kubernetes (Minikube)
 
 
 
@@ -38,15 +39,15 @@ End-to-end GRC project work including ISO 27001 gap analysis, NIST CSF mapping, 
 
 Certifications
 
-Microsoft Certified: Security Operations Analyst Associate (SC-200) — Jun 2025
-CRISC (ISACA) — In Progress
+Microsoft Certified: Security Operations Analyst Associate (SC-200) Jun 2025
+CRISC (ISACA)  In Progress
 
 
 
 Education
 
-MSc in Cybersecurity — National College of Ireland, Dublin (2024–2025)
-BEng in Information Science — SDM College of Engineering, India (2017–2020)
+MSc in Cybersecurity National College of Ireland, Dublin (2024–2025)
+BEng in Information Science  SDM College of Engineering, India (2017–2020)
 
 
 
