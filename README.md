@@ -26,7 +26,7 @@ Core Skills
 
 Key Projects
 
-APT Detection Framework — MSc Thesis
+APT Detection Framework  MSc Thesis
 Detected Advanced Persistent Threat activity in cloud-native environments using network telemetry and machine learning. Built containerised lab with Docker and Kubernetes, analysed Zeek logs with Python, and trained Random Forest and Isolation Forest models.
 
 AWS Security Compliance Dashboard
